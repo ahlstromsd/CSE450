@@ -1,0 +1,15 @@
+================================================================================
+RNN LANGUAGE MODEL - H.G. WELLS SUBMISSION
+================================================================================
+
+This text is based on words from H.G. Wells.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. the hour was over and here and there in the morning of the new home air. it was a city not yet beautiful. besides the great city of paris and france gave place to the magnificent city of paris. there were many things to be found in the city of paris; and the royal family were the same. they had to become to have no men of the court or the count; some of them were at a restaurant transformed into a corner of the picture. this was the instrument of simple happiness in the secret of all the women. on the other hand was a great number of young americans; one of them would be one of the greatest ladies of the world. the children of the government of spain had been destroyed. there was no other physician than a rival; the king's first of the king's majesty. he had had the part of a paris of saint paul and of france; he had seen many french nobility of france. he married his wife and children. he was a hungarian
+
+--- METADATA ---
+Generated characters: 1009
+Minimum required: 1000
+Status: PASS
+Prompt: The world seemed like such a peaceful place until the magic tree was discovered in London.

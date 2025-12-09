@@ -1,0 +1,15 @@
+================================================================================
+RNN LANGUAGE MODEL - L. FRANK BAUM SUBMISSION
+================================================================================
+
+This text is based on words from L. Frank Baum.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. for it was to render to think now.""the table is a foolish of the story of the eye. they can be. i shall not be the night is a new-- and the scarecrow would not be able to make the forest to his eyes.""i guess the man.""he asked in the village. he said eagerly; and the royal full one is my people in the ocean and a two girl.""i see you have no doubt in our young grandfather in it and didn't be sure.""i began to get.""i want to be made that it is a moment he replied from the room.""what is he is your mother? ” cried the wizard."i don't say! ” cried the old one money.""but and i turned to a very miserable. she was really his name.""in the old."what a rail private! ”"he will get away and a new pieces of our best was a book of the world from his head.""because he very glad they were? ” she asked."i have been no thought."""the boy that is hunger is that he is never will be of his.""i'll be unhappy.""i
+
+--- METADATA ---
+Generated characters: 1000
+Minimum required: 1000
+Status: PASS
+Prompt: The world seemed like such a peaceful place until the magic tree was discovered in London.

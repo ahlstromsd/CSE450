@@ -1,0 +1,37 @@
+Prompt: The world seemed like such a peaceful place until the magic tree was discovered in London.
+
+Author 1:
+This text is based on words from L. Frank Baum.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. for it was to render to think now.""the table is a foolish of the story of the eye. they can be. i shall not be the night is a new-- and the scarecrow would not be able to make the forest to his eyes.""i guess the man.""he asked in the village. he said eagerly; and the royal full one is my people in the ocean and a two girl.""i see you have no doubt in our young grandfather in it and didn't be sure.""i began to get.""i want to be made that it is a moment he replied from the room.""what is he is your mother? ” cried the wizard."i don't say! ” cried the old one money.""but and i turned to a very miserable. she was really his name.""in the old."what a rail private! ”"he will get away and a new pieces of our best was a book of the world from his head.""because he very glad they were? ” she asked."i have been no thought."""the boy that is hunger is that he is never will be of his.""i'll be unhappy.""i
+
+--- METADATA ---
+Generated characters: 1000
+Minimum required: 1000
+Status: PASS
+
+Author 2: 
+This text is based on words from Edgar Rice Burroughs.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. we traveled in a long- lighted investigation which we descended from a stream of trees. beyond them stretched a high lake that stretched a valley for some score of ruined huts, and we were all of that of awful shadow. as we entered this valley we saw a young black warrior resplendent in gorgeous barbaric trappings, while a vivid yellow of a warrior, with open clothes in inner harness, fought in their midst, but many of which were drawn toward me. of course, we were fighting in small parties, and from we had gone out of our march to give us a full effort for us. as we were to discover nothing to us, they found a considerable distance away from us, so that they started on toward a great inland city where no sign of my guide had come to our destination. as they approached us we saw that i had reached a point where they had been discovered, and while we were approaching down a bit of ground where aboard
+
+--- METADATA ---
+Generated characters: 1003
+Minimum required: 1000
+Status: PASS
+
+Author 3: 
+This text is based on words from H.G. Wells.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. the hour was over and here and there in the morning of the new home air. it was a city not yet beautiful. besides the great city of paris and france gave place to the magnificent city of paris. there were many things to be found in the city of paris; and the royal family were the same. they had to become to have no men of the court or the count; some of them were at a restaurant transformed into a corner of the picture. this was the instrument of simple happiness in the secret of all the women. on the other hand was a great number of young americans; one of them would be one of the greatest ladies of the world. the children of the government of spain had been destroyed. there was no other physician than a rival; the king's first of the king's majesty. he had had the part of a paris of saint paul and of france; he had seen many french nobility of france. he married his wife and children. he was a hungarian
+
+--- METADATA ---
+Generated characters: 1009
+Minimum required: 1000
+Status: PASS

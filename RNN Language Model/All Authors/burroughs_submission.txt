@@ -1,0 +1,15 @@
+================================================================================
+RNN LANGUAGE MODEL - EDGAR RICE BURROUGHS SUBMISSION
+================================================================================
+
+This text is based on words from Edgar Rice Burroughs.
+
+--- GENERATED TEXT ---
+
+The world seemed like such a peaceful place until the magic tree was discovered in London. we traveled in a long- lighted investigation which we descended from a stream of trees. beyond them stretched a high lake that stretched a valley for some score of ruined huts, and we were all of that of awful shadow. as we entered this valley we saw a young black warrior resplendent in gorgeous barbaric trappings, while a vivid yellow of a warrior, with open clothes in inner harness, fought in their midst, but many of which were drawn toward me. of course, we were fighting in small parties, and from we had gone out of our march to give us a full effort for us. as we were to discover nothing to us, they found a considerable distance away from us, so that they started on toward a great inland city where no sign of my guide had come to our destination. as they approached us we saw that i had reached a point where they had been discovered, and while we were approaching down a bit of ground where aboard
+
+--- METADATA ---
+Generated characters: 1003
+Minimum required: 1000
+Status: PASS
+Prompt: The world seemed like such a peaceful place until the magic tree was discovered in London.

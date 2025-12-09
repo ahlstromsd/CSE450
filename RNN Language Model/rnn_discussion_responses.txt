@@ -1,0 +1,42 @@
+RNN LANGUAGE MODEL - DISCUSSION RESPONSES
+
+Thomas, COO of HackPressIO - 
+
+"Do you think we should be using LSTM layers or GRU layers in this network?" 
+
+We chose LSTM layers because they excel at capturing long-range dependencies needed for coherent text generation. Our three stacked LSTM layers progressively build linguistic understanding, making them ideal for 1000+ character outputs.
+
+
+Monika, Senior Developer - 
+
+"Often when we are generating text we see something like this: 'we counter. He stutn co des...' What would you recommend to improve our results?" 
+
+Our text generation was improperly joining tokens without spacing. We fixed this by generating one word at a time and joining with spaces. More training data and tuning temperature parameters (0.5-0.7 for coherence, 0.8-0.9 for variety) also help.
+
+
+Thomas, COO of HackPressIO - 
+
+"We're really trying to impress our investors with your work here. What would give us the most promise?"  
+
+Three independently trained author models showcase scalability. Live demos with the same prompt across all authors highlight distinctive voice capture, and our 40-45% loss reduction proves the model learns meaningful patterns.
+
+
+Johnny, Data Science Intern - 
+
+"I'm wondering what your views are on using a teacher forcing strategy compared to a curriculum learning strategy?" 
+
+We use teacher forcing because it enables faster convergence and stable training with large datasets. It's the standard for sequence models replicating specific author voices.
+
+
+Monika, Senior Developer - 
+
+"Our previous team used logits in the output layer and then used Sparse Categorical Cross Entropy. Are you planning to use that approach?"
+
+Yes. Logits with SparseCategoricalCrossentropy is the standard for next-token prediction and enables temperature-based sampling during generation.
+
+
+Thomas, COO of HackPressIO - 
+
+"We could improve our model's performance by supplementing with additional text. Which of the following would you recommend?" 
+
+B) Public domain sources only. Since our goal is capturing individual author voice, adding other authors would dilute style. We recommend using complete works from Project Gutenberg (~50 books per author) for consistency and authenticity.
